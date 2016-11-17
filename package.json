@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Nesffer/daum-coord-convert/issues"
   },
-  "homepage": "https://github.com/Nesffer/daum-coord-convert#readme"
+  "homepage": "https://github.com/Nesffer/daum-coord-convert#readme",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
 }
