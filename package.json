@@ -1,0 +1,24 @@
+{
+  "name": "daum-coord-convert",
+  "version": "1.0.0",
+  "description": "DaumMap Coord Convert API",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nesffer@github.com/Nesffer/daum-coord-convert.git"
+  },
+  "keywords": [
+    "daum",
+    "map",
+    "coord"
+  ],
+  "author": "Nesffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nesffer/daum-coord-convert/issues"
+  },
+  "homepage": "https://github.com/Nesffer/daum-coord-convert#readme"
+}
